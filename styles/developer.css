@@ -168,9 +168,10 @@ nav>ul li {
 }
 
 /* resume-section */
- .resume-container{
+.resume-container {
     margin-bottom: 69px;
 }
+
 .resume-cullom-title {
     color: #474747;
     font-size: 30px;
@@ -206,7 +207,47 @@ nav>ul li {
     font-size: 16px;
     font-weight: 400;
 }
-#cv-btn-primary{
- margin: 0px 780px;
- margin-bottom: 113px;
+
+#cv-btn-primary {
+    margin: 0px 780px;
+    margin-bottom: 113px;
+}
+
+/* footer-section */
+.footer-section {
+    display: flex;
+    gap: 117px;
+    padding: 130px 230px 149px 230px;
+    background-color: #FFF8F3;
+    ;
+}
+
+.footer-cullom-connect {
+    padding-right: 117px;
+    padding-left: 30px;
+}
+
+.footer-section-title {
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.footer-section-description {
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-img{
+    /* padding-right: 24px; */
+}
+
+.footer-cullom-message {
+    padding-right: 130px;
+     
+}
+.same{
+  border-style: none;
+  margin-bottom: 24px;
+  padding: 18px 149px 18px 30px;
 }
