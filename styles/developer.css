@@ -168,8 +168,45 @@ nav>ul li {
 }
 
 /* resume-section */
+ .resume-container{
+    margin-bottom: 69px;
+}
 .resume-cullom-title {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+}
+
+.resume-container {
+    display: flex;
+    gap: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.resume-item-description {
+    padding-right: 70px;
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.resume-item-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-item-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+#cv-btn-primary{
+ margin: 0px 780px;
+ margin-bottom: 113px;
 }
